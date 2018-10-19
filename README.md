@@ -1,6 +1,8 @@
 visual_resume
 =============
 
+[![GuardRails badge](https://badges.production.guardrails.io/moul/visual_resume.svg)](https://www.guardrails.io)
+
 You'll need at least: 
 
 - Linkedin API's keys https://www.linkedin.com/secure/developer
